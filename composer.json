@@ -1,0 +1,14 @@
+{
+    "name": "roman/oop",
+    "authors": [
+        {
+            "name": "feoktistov95",
+            "email": "feoktistov95@mail.ua"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+        "": "src/"
+        }
+    "require": {}
+}
