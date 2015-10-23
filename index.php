@@ -6,9 +6,6 @@ use src\Delivery;
 use src\Order;
 use src\Product;
 
-$order = new Order();
-$order->setName('wefwf');
-
 $pizza = new Product();
 $pizza->setName('Pizza');
 $pizza->setPrice(29.5);
